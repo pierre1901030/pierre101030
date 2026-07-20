@@ -1,1 +1,2 @@
-# pierre101030
+# ¡Hola! Soy Pierre 🚀
+### Full Stack Developer | Systems Administrator | IT Consultant
